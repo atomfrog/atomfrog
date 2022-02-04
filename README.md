@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atomfrog!
+- 👋 Hi, I’m atomfrog!
 - 👀 I’m interested in programming and mountainbiking/downhill riding.
-- 🌱 I’m currently learning to make a FPS game in Unity.
+- (Don't need to add an emoji here) I'm just developing some random things in Python and Lua.
 
